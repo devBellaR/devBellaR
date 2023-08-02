@@ -1,4 +1,8 @@
-Hi I’m Bella self learned frontend developer.
+## Hi, I'm Bella! 👋
 
-Main technologies I use 
-Javascript | ReactJS | React Native | NodeJS | HTML/CSS
+🚀 Front-end Developer | 🎨 UI/UX Designer | ✈️ Travel Enthusiast
+
+💻 JavaScript | React | React Native | Node.js | HTML/CSS
+🎨 Framer | Figma
+
+📈 Check out my projects below 👇
