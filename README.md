@@ -1,6 +1,6 @@
 ## Hi, I'm Bella! 👋
 
-🚀 Front-end Developer | 🎨 UI/UX Designer | ✈️ Travel Enthusiast
+🚀 Aspiring to become Full Stack Developer
 
 💻 JavaScript | React | React Native | Node.js | HTML/CSS
 🎨 Framer | Figma
